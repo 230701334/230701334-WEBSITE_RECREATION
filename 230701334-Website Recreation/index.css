@@ -1,0 +1,45 @@
+body{
+        
+        background-color:rgb(50, 111, 190);
+        background-repeat: no-repeat;
+        background-position:center;
+        background-attachment:fixed;
+        background-size:cover;
+    }
+
+
+h1{
+    color:black;
+    font-family: "Maven Pro","verdana",arial;
+}
+#pre1{
+    color:black;
+    font-family: "lucida console","courier new";
+    font-size:14px; 
+    font-weight:bold;
+    font-style:italic;
+
+}
+
+
+#pre2{
+    color:black;
+    font-family: "lucida console","courier new";
+    font-size:14px; 
+    font-weight:bold;
+    font-style:italic;
+
+}
+h1{
+    border-style: outset;
+    border-width:3px;
+    border-color:hsl(192, 45%, 50%);
+    border-radius:100px;
+}
+
+p{
+    border-bottom:3px solid hsl(0, 0%, 6%);
+    border-top:3px solid  hsl(51, 82%, 54%) ;
+    border-radius:3px solid black;
+
+}
